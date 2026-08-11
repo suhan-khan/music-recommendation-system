@@ -1,0 +1,8 @@
+X.pkl
+songs.pkl
+songs_dict.pkl
+spotify-tracks-dataset-detailed.csv
+__pycache__/
+.env
+.cache
+.ipynb_checkpoints/
